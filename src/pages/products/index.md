@@ -1,9 +1,8 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
+templateKey: product-page
+title: Our Philosophy
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Great development with conscience
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -69,6 +68,8 @@ testimonials:
     quote: >-
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
+  - author: Catalunya Advocats
+    quote: 'So fast, so nice, loyal customer for next projects.'
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
@@ -99,3 +100,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
